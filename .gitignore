@@ -1,0 +1,4 @@
+node_modules/
+dist/
+.browser-data/
+mcp-config.json
